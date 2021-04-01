@@ -3,7 +3,7 @@
   display: flex;
   align-items: center;
   &:nth-child(even) {
-    background: #f8f9fa;
+    background: #e2e9f0;
   }
   .checkbox {
     cursor: pointer;
@@ -15,7 +15,7 @@
     }
     .text {
       margin-left: 0.5rem;
-      flex: 1;
+      flex: 4;
     }
     &.checked {
       svg {
